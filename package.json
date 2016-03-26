@@ -1,0 +1,27 @@
+{
+  "name": "file-change-watcher",
+  "version": "1.0.0",
+  "description": "Helps to keep an eye on files(e.g. log files) that are likely to change so to get the content that has been added to tracked files as soon as they're changed.",
+  "main": "fcwatcher.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivel/file-change-watcher.git"
+  },
+  "keywords": [
+    "watch",
+    "file",
+    "change",
+    "log",
+    "track",
+    "content"
+  ],
+  "author": "TrickOrTreat <qiwi360@gmail.com> (https://github.com/aivel)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/aivel/file-change-watcher/issues"
+  },
+  "homepage": "https://github.com/aivel/file-change-watcher#readme"
+}
