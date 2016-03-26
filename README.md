@@ -1,5 +1,11 @@
 # file-change-watcher
 
+Installation:
+
+```
+npm install file-change-watcher
+```
+
 Example of usage:
 
 ```JavaScript
